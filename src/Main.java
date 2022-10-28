@@ -7,7 +7,10 @@ public class Main {
         juOnTheGrudge.setYearsOfRelease(2008);
         System.out.println(juOnTheGrudge);
 
+        System.out.println("We did it");
+
     }
+
 
 
 }
